@@ -911,7 +911,7 @@ function App() {
             </p>
 
             <div className="contact-list contact-cards">
-              <a href="mailto:duminduudakara0421@gmail.com" className="contact-card">
+              <a href="mailto:duminduudakara21@gmail.com" className="contact-card">
                 <span className="contact-icon">✉</span>
                 <span className="contact-card-copy"><small>EMAIL</small><strong>duminduudakara0421@gmail.com</strong></span>
                 <b>↗</b>
