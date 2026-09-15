@@ -923,9 +923,9 @@ function App() {
                 <b>↗</b>
               </a>
 
-              <a href="https://www.linkedin.com/in/dumindu-ekanayak" target="_blank" rel="noreferrer" className="contact-card">
+              <a href="https://www.linkedin.com/in/dumindu-ekanayaka" target="_blank" rel="noreferrer" className="contact-card">
                 <span className="contact-icon contact-icon-text">in</span>
-                <span className="contact-card-copy"><small>LINKEDIN</small><strong>linkedin.com/in/dumindu-ekanayak</strong></span>
+                <span className="contact-card-copy"><small>LINKEDIN</small><strong>www.linkedin.com/in/dumindu-ekanayaka</strong></span>
                 <b>↗</b>
               </a>
 
